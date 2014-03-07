@@ -2,3 +2,4 @@ The repo gives an easy implementation of existing neural models in python . The 
 
 1) Integrate and fire  
 2) Ihzhikevich Spiking Neuron ( regular firing ) 
+3) Ihzhikevich Spiking Neuron(employing Runge Kutta)
